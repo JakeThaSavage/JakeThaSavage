@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JakeThaSavage
 - 👀 I’m interested in ... Gaming
 - 🌱 I’m currently learning ... Python
-- 📫 How to reach me ... Discord: JakeThaSavage#0005
+- 📫 How to reach me ... Discord: JakeThaSavage
 
 <!---
 JakeThaSavage/JakeThaSavage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
